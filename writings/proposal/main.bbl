@@ -1,0 +1,172 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{MGJG18b}
+
+\bibitem[BCKW15]{Blundell:2015:WUN:3045118.3045290}
+Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, and Daan Wierstra.
+\newblock Weight uncertainty in neural networks.
+\newblock In {\em Proceedings of the 32Nd International Conference on
+  International Conference on Machine Learning - Volume 37}, ICML'15, pages
+  1613--1622. JMLR.org, 2015.
+
+\bibitem[{Bri}50]{1950MWRv781B}
+G.~W. {Brier}.
+\newblock {Verification of Forecasts Expressed in Terms of Probability}.
+\newblock {\em Monthly Weather Review}, 78:1, 1950.
+
+\bibitem[GG16]{Gal:2016:DBA:3045390.3045502}
+Yarin Gal and Zoubin Ghahramani.
+\newblock Dropout as a bayesian approximation: Representing model uncertainty
+  in deep learning.
+\newblock In {\em Proceedings of the 33rd International Conference on
+  International Conference on Machine Learning - Volume 48}, ICML'16, pages
+  1050--1059. JMLR.org, 2016.
+
+\bibitem[GPSW17]{DBLP:journals/corr/GuoPSW17}
+Chuan Guo, Geoff Pleiss, Yu~Sun, and Kilian~Q. Weinberger.
+\newblock On calibration of modern neural networks.
+\newblock {\em CoRR}, abs/1706.04599, 2017.
+
+\bibitem[Gra11]{NIPS2011_4329}
+Alex Graves.
+\newblock Practical variational inference for neural networks.
+\newblock In J.~Shawe-Taylor, R.~S. Zemel, P.~L. Bartlett, F.~Pereira, and
+  K.~Q. Weinberger, editors, {\em Advances in Neural Information Processing
+  Systems 24}, pages 2348--2356. Curran Associates, Inc., 2011.
+
+\bibitem[JKGG18]{NIPS2018_7798}
+Heinrich Jiang, Been Kim, Melody Guan, and Maya Gupta.
+\newblock To trust or not to trust a classifier.
+\newblock In S.~Bengio, H.~Wallach, H.~Larochelle, K.~Grauman, N.~Cesa-Bianchi,
+  and R.~Garnett, editors, {\em Advances in Neural Information Processing
+  Systems 31}, pages 5546--5557. Curran Associates, Inc., 2018.
+
+\bibitem[Kae18]{DBLP:thesis/calibration}
+Markus Kaengsepp.
+\newblock Calibration of convolutional neural networks.
+\newblock 2018.
+
+\bibitem[KFE18]{kuleshov2018accurate}
+Volodymyr Kuleshov, Nathan Fenner, and Stefano Ermon.
+\newblock Accurate uncertainties for deep learning using calibrated regression.
+\newblock {\em arXiv preprint arXiv:1807.00263}, 2018.
+
+\bibitem[LK17]{DBLP:journals/corr/LopezK17}
+Marc~Moreno Lopez and Jugal Kalita.
+\newblock Deep learning applied to {NLP}.
+\newblock {\em CoRR}, abs/1703.03091, 2017.
+
+\bibitem[LPB17]{lakshminarayanan2017simple}
+Balaji Lakshminarayanan, Alexander Pritzel, and Charles Blundell.
+\newblock Simple and scalable predictive uncertainty estimation using deep
+  ensembles.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  6402--6413, 2017.
+
+\bibitem[LW16]{pmlr-v48-louizos16}
+Christos Louizos and Max Welling.
+\newblock Structured and efficient variational deep learning with matrix
+  gaussian posteriors.
+\newblock In Maria~Florina Balcan and Kilian~Q. Weinberger, editors, {\em
+  Proceedings of The 33rd International Conference on Machine Learning},
+  volume~48 of {\em Proceedings of Machine Learning Research}, pages
+  1708--1716, New York, New York, USA, 20--22 Jun 2016. PMLR.
+
+\bibitem[MBC{\etalchar{+}}99]{mackay1999bayesian}
+David Mackay, John Bridle, Peter Cheeseman, Sidney Fels, Steve Gull, Andreas
+  Herz, John Hopfield, Doug Kerns, Allen Knutsen, David Koerner, Mike Lewicki,
+  Tom Loredo, Steve Luttrell, Ken Rose, Sibusiso Sibisi, John Skilling, Haim
+  Sompolinsky, and Nick Weir.
+\newblock Bayesian methods for adaptive models.
+\newblock 05 1999.
+
+\bibitem[MGJG18a]{mozafari2018new}
+Azadeh~Sadat Mozafari, Hugo~Siqueira Gomes, Steeven Janny, and Christian
+  Gagn{\'e}.
+\newblock A new loss function for temperature scaling to have better calibrated
+  deep networks.
+\newblock {\em arXiv preprint arXiv:1810.11586}, 2018.
+
+\bibitem[MGJG18b]{DBLP:journals/corr/abs-1810-11586}
+Azadeh~Sadat Mozafari, Hugo~Siqueira Gomes, Steeven Janny, and Christian
+  Gagn{\'{e}}.
+\newblock A new loss function for temperature scaling to have better calibrated
+  deep networks.
+\newblock {\em CoRR}, abs/1810.11586, 2018.
+
+\bibitem[MSK18]{DBLP:journals/corr/abs-1810-01861}
+Marcin Mozejko, Mateusz Susik, and Rafal Karczewski.
+\newblock Inhibited softmax for uncertainty estimation in neural networks.
+\newblock {\em CoRR}, abs/1810.01861, 2018.
+
+\bibitem[MW17]{DBLP:journals/corr/abs-1709-09844}
+Amit Mandelbaum and Daphna Weinshall.
+\newblock Distance-based confidence score for neural network classifiers.
+\newblock {\em CoRR}, abs/1709.09844, 2017.
+
+\bibitem[Nea96]{Neal:1996:BLN:525544}
+Radford~M. Neal.
+\newblock {\em Bayesian Learning for Neural Networks}.
+\newblock Springer-Verlag, Berlin, Heidelberg, 1996.
+
+\bibitem[NMC05]{niculescu2005predicting}
+Alexandru Niculescu-Mizil and Rich Caruana.
+\newblock Predicting good probabilities with supervised learning.
+\newblock In {\em Proceedings of the 22nd international conference on Machine
+  learning}, pages 625--632. ACM, 2005.
+
+\bibitem[NMK{\etalchar{+}}14]{6993023}
+S.~S. Nath, G.~Mishra, J.~Kar, S.~Chakraborty, and N.~Dey.
+\newblock A survey of image classification methods and techniques.
+\newblock In {\em 2014 International Conference on Control, Instrumentation,
+  Communication and Computational Technologies (ICCICCT)}, pages 554--557, July
+  2014.
+
+\bibitem[NZV18]{Neumann18c}
+L.~Neumann, A.~Zisserman, and A.~Vedaldi.
+\newblock Relaxed softmax: Efficient confidence auto-calibration for safe
+  pedestrian detection.
+\newblock In {\em Machine Learning for Intelligent Transportation Systems
+  Workshop, NIPS}, 2018.
+
+\bibitem[Pla99]{Platt99probabilisticoutputs}
+John~C. Platt.
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods.
+\newblock In {\em ADVANCES IN LARGE MARGIN CLASSIFIERS}, pages 61--74. MIT
+  Press, 1999.
+
+\bibitem[PM18]{DBLP:journals/corr/abs-1803-04765}
+Nicolas Papernot and Patrick~D. McDaniel.
+\newblock Deep k-nearest neighbors: Towards confident, interpretable and robust
+  deep learning.
+\newblock {\em CoRR}, abs/1803.04765, 2018.
+
+\bibitem[PNFCH15]{DBLP:journals/corr/binning}
+Mahdi Pakdaman~Naeini, Gregory F~Cooper, and Milos Hauskrecht.
+\newblock Obtaining well calibrated probabilities using bayesian binning.
+\newblock {\em Proceedings of the ... AAAI Conference on Artificial
+  Intelligence. AAAI Conference on Artificial Intelligence}, 2015:2901--2907,
+  04 2015.
+
+\bibitem[Ten]{TensorProb}
+Tensorflow probability.
+\newblock \url{https://www.tensorflow.org/probability/}.
+\newblock Accessed: 2019-01-06.
+
+\bibitem[ZE01]{Zadrozny:2001:OCP:645530.655658}
+Bianca Zadrozny and Charles Elkan.
+\newblock Obtaining calibrated probability estimates from decision trees and
+  naive bayesian classifiers.
+\newblock In {\em Proceedings of the Eighteenth International Conference on
+  Machine Learning}, ICML '01, pages 609--616, San Francisco, CA, USA, 2001.
+  Morgan Kaufmann Publishers Inc.
+
+\bibitem[ZE02]{Zadrozny:2002:TCS:775047.775151}
+Bianca Zadrozny and Charles Elkan.
+\newblock Transforming classifier scores into accurate multiclass probability
+  estimates.
+\newblock In {\em Proceedings of the Eighth ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '02, pages 694--699, New York,
+  NY, USA, 2002. ACM.
+
+\end{thebibliography}
